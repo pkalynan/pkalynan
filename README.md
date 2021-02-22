@@ -18,3 +18,4 @@ Currently, I have been working on technical writing and applying knowledge/skill
 
 Sample topics include: Internet domain name system records, VirtualBox, Operating Systems, programming/coding for data sciences and other helpful applications.
 Few pending topics currently in the works are: Kali Linux on Windows and basic statistics.
+***
