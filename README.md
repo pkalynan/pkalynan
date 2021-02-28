@@ -20,4 +20,10 @@ Sample topics include: Internet domain name system records, VirtualBox, Operatin
 Few pending topics currently in the works are: application storage and retrieval, VirtualBox on Windows, bringing back brain games in Python and C++, and basic statistics.
 ***
 
-My new venture includes Technical Tutoring. My first client is my father!
+I take on the role of Search Engine Analytics Support with focus on DNS for a project created by the ACM Student Chapter club at Southern New Hampshire University.
+
+The project serves the Agricultural industry with virtual presence. 
+
+***
+
+My new venture includes Technical Tutoring. My first client is my father.
