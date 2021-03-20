@@ -16,14 +16,8 @@ Studied [Data Analytics](https://www.snhu.edu/online-degrees/masters/ms-in-data-
 
 Currently, I have been working on technical writing and applying knowledge/skills into my articles. I assist with web site design and domain name system information for a [close contact of mine](http://pavithraconsulting.ca/). I have published a few of my articles on Analytics Vidhya through Medium.com as well as particpated in ["Data Science Blogathon 5"](https://datahack.analyticsvidhya.com/contest/data-science-blogathon-5/) with articles about [Visualizing PCA in R-Programming](https://www.analyticsvidhya.com/blog/2021/02/visualizing-pca-in-r-programming-with-factoshiny/) and [the Importance of Cleaning and Cleansing](https://www.analyticsvidhya.com/blog/2021/02/the-importance-of-cleaning-and-cleansing-your-data/) for fun. Most recently, Analytics Vidhya published [Reverse IP Engineering](https://link.medium.com/DD3I5oD2feb) and [Linux on Windows](https://link.medium.com/hsmf71Oh7db). Initally published on Analytics Vidhya via Medium.com with articles about [Python Tkinter Applications as Java Applications](https://medium.com/analytics-vidhya/python-tkinter-as-a-java-application-36536176fe83) and [Trying to Avoid Digital Scams](https://medium.com/analytics-vidhya/trying-to-avoid-digital-scams-7d4f1e665119). Recently, Section.io's Engineering Education platform published my tutorial on ["Verifying Website Domains"](https://www.section.io/engineering-education/verifying-website-domains/).
 
-Sample topics include: Internet domain name system records, VirtualBox, Operating Systems, programming/coding for data sciences and other helpful applications.
-Few pending topics currently in the works are: application storage and retrieval, VirtualBox on Windows, bringing back brain games in Python and C++, and basic statistics.
+Sample topics include: Internet domain name system records, Virtualization, Operating Systems, programming/coding for data sciences and other helpful applications.
+Few pending topics currently in the works are: Backend VPN.
 ***
 
-I take on the role of Search Engine Analytics Support with focus on DNS for a project created by the ACM Student Chapter club at Southern New Hampshire University.
-
-The project serves the Agricultural industry in the USA with virtual presence. 
-
-***
-
-My new venture includes Technical Tutoring. My first client is my father.
+Fulfilling responsibilities as a Content Writer for [IPinfo.io](https://ipinfo.io).
