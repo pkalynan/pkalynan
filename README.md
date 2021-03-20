@@ -21,3 +21,7 @@ Few pending topics currently in the works are: Backend VPN.
 ***
 
 Fulfilling responsibilities as a Content Writer for [IPinfo.io](https://ipinfo.io).
+
+***
+
+### *Making losses into a thriving career.*
