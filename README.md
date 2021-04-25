@@ -1,1 +1,1 @@
-Studying Cybersecurity at NYUx.
+MicroBachelors Cybersecurity Student at NYUx.
