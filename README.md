@@ -7,4 +7,4 @@ I cannot find reasonable excuses to stop studying...
 
 Why? For the time being: I am a Technical Article Writer. I love seeing accurate publications in the technical space with codes that actually work.
 
-For what? Provided a relevant opportunity and did not let go. Could help others at the same time.
+For what? Provided a relevant opportunity and did not let go. So/Why? Could help others while becoming less introverted at the same time.
